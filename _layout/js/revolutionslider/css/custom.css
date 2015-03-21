@@ -51,7 +51,7 @@
 		background: #393939;
 	}
 
-	.tp-bullets.simplebullets.round .bullet.selected { background: #8ec63f;  }
+	.tp-bullets.simplebullets.round .bullet.selected { background: #CE4115;  }
 
 /* ==========================================================================
    =Rev Slider Nav
@@ -117,8 +117,8 @@
 	}
 	
 	.caption .btn:hover {
-		border-color: #8ec63f;
-		color: #8ec63f;
+		border-color: #CE4115;
+		color: #CE4115;
 	}
 	
 	

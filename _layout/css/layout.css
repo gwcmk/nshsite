@@ -205,7 +205,7 @@
 	.sf-menu li a:hover,
 	.sf-menu li.sfhover a:hover,
 	.sf-menu li.sfHover > a {
-		color: #8ec63f;
+		color: #CE4115;
 		background-color: #f6f6f6;
 		border-bottom-color: #d7d7d7;
 	}
@@ -303,7 +303,7 @@
 	
 	.sf-arrows ul li > .sf-with-ul:focus:after,
 	.sf-arrows ul li:hover > .sf-with-ul:after,
-	.sf-arrows ul .sfHover > .sf-with-ul:after { border-left-color: #8ec63f; }
+	.sf-arrows ul .sfHover > .sf-with-ul:after { border-left-color: #CE4115; }
 	
 	@media (min-width: 1400px) {
 		
@@ -645,7 +645,7 @@
    ========================================================================== */
    
    	h1.error {
-		color: #8ec63f;
+		color: #CE4115;
 		font-size: 60px;
 		line-height: 90px;
 	}

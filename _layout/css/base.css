@@ -246,7 +246,7 @@
 	.text-right { text-align: right; }
 	.text-center { text-align: center; }
 	
-	.text-highlight { color: #8ec63f; }
+	.text-highlight { color: #CE4115; }
 
 	.text-uppercase { text-transform: uppercase; }
 	
@@ -289,7 +289,7 @@
 	
 	a, 
 	a:visited { 
-		color: #8ec63f; 
+		color: #CE4115; 
 		text-decoration: none; 
 	}
 	
@@ -303,7 +303,7 @@
 	
 	a:hover, 
 	a:focus {
-		color: #8ec63f;
+		color: #CE4115;
 		outline: 0; 
 		text-decoration: underline;
 	}	
